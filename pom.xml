@@ -97,7 +97,7 @@
 		<dasniko-testcontainer-keycloak.version>3.2.0</dasniko-testcontainer-keycloak.version>
 		<selenium_chrome_driver.version>3.14.0</selenium_chrome_driver.version>
         <selenium.version>4.17.0</selenium.version>
-		<sentry.version>7.1.0</sentry.version>
+		<sentry.version>7.17.0</sentry.version>
         <apache_httpclient.version>5.2.1</apache_httpclient.version>
 
 
