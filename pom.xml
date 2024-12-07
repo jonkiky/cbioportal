@@ -89,7 +89,7 @@
 		<commons_codec.version>1.16.0</commons_codec.version>
 		<commons_validator.version>1.7</commons_validator.version>
 		<simple_java_bitly.version>1.1</simple_java_bitly.version>
-		<ehcache.version>3.7.1</ehcache.version>
+		<ehcache.version>3.10.8</ehcache.version>
 		<json_simple.version>1.1.1</json_simple.version>
 		<mongo_java_driver.version>3.12.14</mongo_java_driver.version>
 		<datumbox.version>0.8.2</datumbox.version>
