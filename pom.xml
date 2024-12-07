@@ -79,7 +79,7 @@
 
 
 		<!-- Third Party -->
-		<redisson.version>3.13.2</redisson.version>
+		<redisson.version>3.39.0</redisson.version>
 		<commons-math3.version>3.6.1</commons-math3.version>
 		<springdoc.version>2.2.0</springdoc.version>
 		<apache-commons-collections.version>4.4</apache-commons-collections.version>
