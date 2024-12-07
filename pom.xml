@@ -72,7 +72,7 @@
 
 		<!-- Unknown -->
 		<io.swagger.version>1.6.3</io.swagger.version>
-		<mybatis.starter.version>3.0.2</mybatis.starter.version>
+		<mybatis.starter.version>3.0.4</mybatis.starter.version>
 		<testcontainers.version>1.19.4</testcontainers.version>
 		<mockserver.version>5.15.0</mockserver.version>
 		<opensaml.version>4.1.1</opensaml.version>
@@ -81,7 +81,7 @@
 		<!-- Third Party -->
 		<redisson.version>3.13.2</redisson.version>
 		<commons-math3.version>3.6.1</commons-math3.version>
-		<springdoc.version>2.2.0</springdoc.version>
+		<springdoc.version>2.7.0</springdoc.version>
 		<apache-commons-collections.version>4.4</apache-commons-collections.version>
 		<io-jsonwebtoken.version>0.11.2</io-jsonwebtoken.version>
 		<mongodb_bson.version>4.11.0</mongodb_bson.version>
