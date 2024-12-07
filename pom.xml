@@ -83,7 +83,7 @@
 		<commons-math3.version>3.6.1</commons-math3.version>
 		<springdoc.version>2.2.0</springdoc.version>
 		<apache-commons-collections.version>4.4</apache-commons-collections.version>
-		<io-jsonwebtoken.version>0.11.2</io-jsonwebtoken.version>
+		<io-jsonwebtoken.version>0.12.6</io-jsonwebtoken.version>
 		<mongodb_bson.version>4.11.0</mongodb_bson.version>
 		<google_guava.version>32.1.3-jre</google_guava.version>
 		<commons_codec.version>1.16.0</commons_codec.version>
